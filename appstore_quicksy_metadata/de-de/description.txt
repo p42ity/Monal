@@ -1,0 +1,6 @@
+Bei Quicksy handelt es sich um ein Spin-Off der bekannten XMPP App Monal.
+
+Du registriert dich durch Angabe deiner Mobilfunknummer und Quicksy schlägt dir, auf Basis der Mobilfunknummern in deinem Adressbuch, mögliche Kontakte vor. Unter der Haube ist Quicksy ein vollwertiger XMPP Client, der eine Kommunikation mit Nutzern auf allen anderen öffentlichen föderierten Servern ermöglicht.
+Als Quicksy-Nutzer kannst somit auch problemlos von Nutzern anderer XMPP Servern kontaktiert werden. Sie müssen lediglich +Mobilfunknummer@quicksy.im zu ihren Kontakten hinzufügen.
+
+Mit Ausnahme der Kontaktsynchronisation orientiert sich die Benutzeroberfläche an Monal. Wenn du also jemals von Quicksy zu Monal wechseln möchtest, stellt das keine große Hürde dar.
